@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NUPP_NET_2026_405_TN_BlokhaLab1/1.0.0": {
+        "runtime": {
+          "NUPP_NET_2026_405_TN_BlokhaLab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NUPP_NET_2026_405_TN_BlokhaLab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
